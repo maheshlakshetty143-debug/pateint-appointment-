@@ -1,0 +1,6 @@
+{
+  "name": "PulseCare Clinic - Patient Appointment Scheduling & Tracking",
+  "description": "Comprehensive clinical appointment management system to schedule, triage, and track patient appointments across practitioners and departments with live wait-time monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
